@@ -28,10 +28,6 @@ IMPLEMENTATION: <br />
     	Snake class that contains methods for how it moves <br />
     src/Square.java
     	Fundamental of the program, stores a location and makes up most of the objects <br />
-    files/HighScores.txt
-    	File that Score reads from which stores all the high scores and the names <br />
-    test/GameTest.java
-    	Contains JUnit tests for GameCourt, snake movements and food <br />
 <br />
 CONCEPTS:<br />
 
