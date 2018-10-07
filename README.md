@@ -3,7 +3,7 @@
 This is a project I created, we I add new elements to a snake game. There are different types of foods that can change the way the game is played! For example, some foods move, some change the speed of the snake, and others that make the game more exciting! The game is created with the Java Swing library.
 <br />
 
-IMPLEMENTATION:
+IMPLEMENTATION: <br />
     src/Game.java
     	This is the game class containing the main method <br />
     src/Body.java
